@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Maus';
+    src: url('Maus.eot');
+    src: url('Maus.eot?#iefix') format('embedded-opentype'),
+        url('Maus.woff2') format('woff2'),
+        url('Maus.woff') format('woff'),
+        url('Maus.ttf') format('truetype'),
+        url('Maus.svg#Maus') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
